@@ -2,8 +2,10 @@
 public class test {
 
 	public static void main(String[] args) {
-		int i = 0;
-		System.out.println(i);
+		String value = "hhh";
+		if(value.equals("hhh")){
+			System.out.println("666");
+		}
 	}
 
 }
